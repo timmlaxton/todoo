@@ -33,3 +33,14 @@ form button {
   border: none;
   background: #fff;
 }
+
+form button {
+  color: #333;
+  background: #ccc;
+  cursor: pointer;
+  transition: all 0.3sec;
+}
+
+form button:hover {
+  color: #f2f2f2;
+}
