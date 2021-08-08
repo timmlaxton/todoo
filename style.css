@@ -25,3 +25,11 @@ form {
   align-items: center;
   margin-top: 50px;
 }
+
+form input,
+form button {
+  padding: 0.5rem;
+  font-size: 2rem;
+  border: none;
+  background: #fff;
+}
